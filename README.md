@@ -1,4 +1,6 @@
-项目：用 XCanvas 制作琅琊榜第一集
+项目：用 XCanvas 制作琅琊榜
+
+XCanvas项目地址：https://dev-aicanvas.qnlinking.com/storyboard/project/6c01af33-d84d-41b9-ba9d-1aa3a8b5f343/global_settings
 
 视频名称：瑯琊榜之愚龙得宝
 
