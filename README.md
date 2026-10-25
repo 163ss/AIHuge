@@ -12,3 +12,5 @@ XCanvas项目地址：https://dev-aicanvas.qnlinking.com/storyboard/project/6c01
 视频分镜详情见 瑯琊榜之愚龙得宝-分镜脚本.md 说明
 
 素材库：存放视频相关素材
+
+输出视频：存放最终完整视频，总共三集
