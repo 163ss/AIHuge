@@ -18,7 +18,9 @@ XCanvas项目地址：https://dev-aicanvas.qnlinking.com/storyboard/project/6c01
 
 # 6、输出视频播放地址
 第一集：http://qupfile.cloudvdn.com/%E7%AC%AC%E4%B8%80%E9%9B%86.mp4
+
 第二集：http://qupfile.cloudvdn.com/%E7%AC%AC%E4%BA%8C%E9%9B%86.mp4
+
 第三集：http://qupfile.cloudvdn.com/%E7%AC%AC%E4%B8%89%E9%9B%86.mp4
 
 
