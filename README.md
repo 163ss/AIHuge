@@ -9,7 +9,9 @@ XCanvas项目地址：https://dev-aicanvas.qnlinking.com/storyboard/project/6c01
 
 # 4、故事设计相关
 故事剧情：琅琊榜-愚龙得宝_故事剧本详情.pdf
+
 声音设计：琅琊榜-愚龙得宝逐镜声音设计.md
+
 视频分镜设计：瑯琊榜之愚龙得宝-分镜脚本.md
 
 # 4、素材库目录：存放视频相关素材
