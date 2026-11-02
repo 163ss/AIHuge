@@ -1,6 +1,6 @@
 # 1、项目：用 XCanvas 制作琅琊榜
 
-XCanvas项目地址：https://dev-aicanvas.qnlinking.com/storyboard/project/6c01af33-d84d-41b9-ba9d-1aa3a8b5f343/global_settings
+XCanvas项目地址：[琅琊榜之愚龙得宝](https://dev-aicanvas.qnlinking.com/storyboard/project/6c01af33-d84d-41b9-ba9d-1aa3a8b5f343/global_settings)
 
 # 2、团队成员与分工
 程文杰：剧本设计、剧本内容复核、分镜脚本复核、第一集视频制作与剪辑、demo演示
