@@ -24,7 +24,7 @@ XCanvas项目地址：https://dev-aicanvas.qnlinking.com/storyboard/project/6c01
 # 6、素材库目录：存放视频相关素材
 
 # 7、视频制作演示
-[录屏演示demo](http://qupfile.cloudvdn.com/demo.mp4)
+[录屏演示demo](http://qupfile.cloudvdn.com/%E6%BC%94%E7%A4%BAdemo.mp4)
 
 # 8、输出视频播放地址
 第一集：[愚龙得宝，初破诡局]()
