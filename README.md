@@ -26,7 +26,10 @@ XCanvas项目地址：[琅琊榜之愚龙得宝](https://dev-aicanvas.qnlinking.
 # 7、视频制作演示
 [录屏演示demo](http://qupfile.cloudvdn.com/%E6%BC%94%E7%A4%BAdemo.mp4)
 
-# 8、输出视频播放地址
+# 8、【瑯琊榜之愚龙得宝】短剧设计与实现讲解PPT
+[设计与实现讲解](./琅琊榜之愚龙得宝.pptx)
+
+# 9、输出视频播放地址
 第一集：[愚龙得宝，初破诡局]()
 
 第二集：[朝堂辩诡，硬破梅谋](http://qupfile.cloudvdn.com/%E7%AC%AC2%E9%9B%86%E6%9C%80%E7%BB%88%E7%89%88.mp4)
